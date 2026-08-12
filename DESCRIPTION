@@ -10,3 +10,5 @@ Roxygen: list(markdown = TRUE)
 URL: https://github.com/lind-i/libminer
 BugReports: https://github.com/lind-i/libminer/issues
 Config/roxygen2/version: 8.1.0
+Imports: 
+    fs
